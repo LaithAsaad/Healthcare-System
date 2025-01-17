@@ -1,0 +1,14 @@
+F:\Project\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\FirstTier.deps.json
+F:\Project\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\FirstTier.runtimeconfig.json
+F:\Project\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\FirstTier.dll
+F:\Project\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\FirstTier.pdb
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\FirstTier.csproj.AssemblyReference.cache
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\FirstTier.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\FirstTier.AssemblyInfoInputs.cache
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\FirstTier.AssemblyInfo.cs
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\FirstTier.csproj.CoreCompileInputs.cache
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\FirstTier.dll
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\FirstTier.dll
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\FirstTier.pdb
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\FirstTier.genruntimeconfig.cache
+F:\Project\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\FirstTier.dll
