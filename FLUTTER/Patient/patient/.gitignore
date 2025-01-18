@@ -30,7 +30,8 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
-/build/
+build/
+generated/
 
 # Symbolication related
 app.*.symbols
@@ -38,7 +39,53 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
+# Android-related files and folders
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/.gradle/
+**/android/app/*.apk
+**/android/app/*.aar
+**/android/build/
+
+# iOS-related files and folders
+**/ios/.generated/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Runner.build/
+**/ios/Runner.xcworkspace/
+
+# Web-related files and folders
+web/.dart_tool/
+web/build/
+
+# Windows-related files and folders
+windows/.dart_tool/
+windows/build/
+windows/ephemeral/
+
+# macOS-related files and folders
+macos/.dart_tool/
+macos/build/
+macos/Flutter/ephemeral/
+
+# Linux-related files and folders
+linux/.dart_tool/
+linux/build/
+linux/Flutter/ephemeral/
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Other temporary or lock files
+*.lock
+*.tmp
+*.log
+*.swp
+*.swo
+Thumbs.db
